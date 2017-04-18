@@ -1,0 +1,9 @@
+{
+  "name": "dynabrow",
+  "version": "1.0.0",
+  "description": "A dynamodb for browser readonly (blogs, webs)",
+  "main": "index.js",
+  "repository": "https://github.com/jpicornell/dynabrow",
+  "author": "Joan Picornell (jpicornell)",
+  "license": "GNU"
+}
