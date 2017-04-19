@@ -4,7 +4,7 @@ module.exports = {
   entry: './lib/index.js',
   target: 'node',
   output: {
-    filename: 'bundle.js',
+    filename: 'index.js',
     path: path.resolve(__dirname, 'dist'),
   },
   module: {
