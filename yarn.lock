@@ -1063,6 +1063,13 @@ domain-browser@^1.1.1:
   version "1.1.7"
   resolved "https://registry.yarnpkg.com/domain-browser/-/domain-browser-1.1.7.tgz#867aa4b093faa05f1de08c06f4d7b21fdf8698bc"
 
+"dynabrow@https://github.com/jpicornell/dynabrow":
+  version "1.0.0"
+  resolved "https://github.com/jpicornell/dynabrow#7433c5edd695cfd4f76280ecb1e2bf9767b59825"
+  dependencies:
+    eslint "^3.19.0"
+    webpack "^2.4.1"
+
 ecc-jsbn@~0.1.1:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/ecc-jsbn/-/ecc-jsbn-0.1.1.tgz#0fc73a9ed5f0d53c38193398523ef7e543777505"
