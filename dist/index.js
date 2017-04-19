@@ -73,8 +73,13 @@
 "use strict";
 
 
-module.exports = function () {
-  return console.log('hey');
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = {
+  dynabrow: function dynabrow() {
+    return console.log('hey');
+  }
 };
 
 /***/ })
