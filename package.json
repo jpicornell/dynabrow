@@ -1,11 +1,11 @@
 {
   "name": "dynabrow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A dynamodb for browser readonly (blogs, webs)",
   "main": "dist/index.js",
   "repository": "https://github.com/jpicornell/dynabrow",
   "author": "Joan Picornell (jpicornell)",
-  "license": "GNU",
+  "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.46.0",
     "bluebird": "^3.5.0",
